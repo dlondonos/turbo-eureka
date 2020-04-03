@@ -1,0 +1,17 @@
+
+h2 {
+  color: #23d2aa;
+  font-family: arial, "sans-serif";
+  font-size: 24px;
+  font-style: oblique;
+  margin: 10px;
+  font-weight: 400;
+  text-align: center;
+}
+p {
+  color: #000028;
+  font-size: 18px;
+  margin: 10px;
+  line-height: 40px;
+  
+}
